@@ -24,3 +24,26 @@ Uber trip data from 2014 (April - September)
 
 Uber trip data from 2015 (January - June)
 
+Uber trip data from 2014
+There are six files of raw data on Uber pickups in New York City from April to September 2014 (uber-raw-data-xyz14.csv). The files are separated by month and each has the following columns:
+
+Date/Time : The date and time of the Uber pickup
+
+Lat : The latitude of the Uber pickup
+
+Lon : The longitude of the Uber pickup
+
+Base : The TLC base company code affiliated with the Uber pickup
+
+Uber trip data from 2015
+
+Also included is the file uber-raw-data-janjune-15.csv This file has the following columns:
+
+Dispatching base num : The TLC base company code of the base that dispatched the Uber
+
+Pickup date : The date and time of the Uber pickup
+
+Affiliated base num : The TLC base company code affiliated with the Uber pickup
+
+locationID : The pickup location ID affiliated with the Uber pickup
+
